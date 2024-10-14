@@ -1,10 +1,3 @@
-
-    github_user_name: ${{ KenshoWh0o }}
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-  
 # 💫 About Me:
 🏫 French student in the city of Montpellier<br>🧍 Pronouns : they/them<br>🍃 Currently learning python <br>🎮 Aiming to become game designer<br>
 
