@@ -1,4 +1,4 @@
-![snake gif](https://github.com/KenshoWh0o/KenshoWh0o/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/KenshoWh0o/KenshoWh0o/blob/output/snake.svg)
 
 # 💫 About Me:
 🏫 French student in the city of Montpellier<br>🧍 Pronouns : they/them<br>🍃 Currently learning python <br>🎮 Aiming to become game designer<br>
