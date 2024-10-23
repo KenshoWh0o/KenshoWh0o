@@ -3,7 +3,7 @@
 # 💫 About Me:
 🏫 French student in the city of Montpellier<br>🧍 Pronouns : they/them<br>🍃 Currently learning python and C#<br>🎮 Aiming to become game designer
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ahnf2bg5gwfw7mejoq5gsmpw24)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ahnf2bg5gwfw7mejoq5gsmpw24&count=1)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/directedbyari_) 
