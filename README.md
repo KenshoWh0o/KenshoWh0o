@@ -4,7 +4,7 @@
 
 </div>
 
-# 💫 About Me:
+# 💫 About Me :
 <img align="right" width="40%" src="https://spotify-recently-played-readme.vercel.app/api?user=31ahnf2bg5gwfw7mejoq5gsmpw24&count=1" />
 
 🏫 French student in the city of Montpellier<br>
@@ -12,10 +12,10 @@
 🍃 Currently learning Python and C#<br>
 🎮 Aiming to become game designer
 
-## 🌐 Socials:
+## 🌐 Socials :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/directedbyari_) 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack :
 
 <div align="center" markdown=1>
   
@@ -23,7 +23,7 @@
 
 </div>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats :
 
 <div align="center">
   
