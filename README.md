@@ -1,9 +1,12 @@
 ![snake gif](https://github.com/KenshoWh0o/KenshoWh0o/blob/output/snake.svg) 
 
 # 💫 About Me:
-🏫 French student in the city of Montpellier<br>🧍 Pronouns : they/them<br>🍃 Currently learning python and C#<br>🎮 Aiming to become game designer
+<img align="right" width="40%" src="https://spotify-recently-played-readme.vercel.app/api?user=31ahnf2bg5gwfw7mejoq5gsmpw24&count=1" />
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ahnf2bg5gwfw7mejoq5gsmpw24&count=1)
+🏫 French student in the city of Montpellier<br>
+🧍 Pronouns : they/them<br>
+🍃 Currently learning Python and C#<br>
+🎮 Aiming to become game designer
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/directedbyari_) 
