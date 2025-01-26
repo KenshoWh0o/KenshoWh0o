@@ -10,7 +10,7 @@
 🏫 French student in the city of Montpellier<br>
 🧍 Pronouns : they/them<br>
 🍃 Currently learning Python and C#<br>
-🎮 Aiming to become game programmer
+🎮 Aiming to become game designer
 
 # 🌐 Socials :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/directedbyari_) 
